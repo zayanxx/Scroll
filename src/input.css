@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+main{
+    font-family: "Righteous", serif;
+    font-style: normal;
+}
+.third-title{
+    font-family: "Righteous", serif;
+    font-style: normal;
+}
+
+.feature-clas{
+    font-family: "Righteous", serif;
+    font-style: normal;
+}
+
+.course-contain{
+    font-family: "Righteous", serif;
+    font-style: normal;
+}
+
+.img-cad-sec{
+    font-family: "Righteous", serif;
+    font-style: normal;
+}
+
+.subscribe-contend{
+    font-family: "Righteous", serif;
+    font-style: normal;
+}
+.three-card-con{
+    font-family: "Righteous", serif;
+    font-style: normal;
+}
+
+.yellow {
+    color:yellow;
+}
+
+.fa-star{
+    color: orange;
+}
+.fa-circle-right{
+    color: blue;
+}
+.fa-circle-left{
+    color: blue;
+}
+
+footer{
+    font-family: "Righteous", serif;
+    font-style: normal;
+}
+
+.foot-con{
+    font-size: x-small;
+}
+
+footer a{
+    font-size: x-small;
+}
+
+.card-text-change{
+    font-size: x-small;
+}
+
+.fa-instagram{
+    color: crimson;
+}
+
+.fa-whatsapp{
+    color: green;
+}
+
+.fa-twitter{
+    color: aqua;
+}
+.fa-linkedin{
+    color: blue;
+}
+
+.fa-youtube{
+    color: brown;
+}
